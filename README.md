@@ -1,5 +1,3 @@
-# currencyconverter
-Currency Converter app built with React, Vite, and Tailwind CSS. Provides real-time exchange rates and an intuitive UI for currency conversion.
 # 💱 Currency Converter
 
 A simple and interactive Currency Converter web application built with **React**, **Vite**, and **Tailwind CSS**. It uses a public API to fetch real-time exchange rates and lets users convert between multiple currencies easily.
